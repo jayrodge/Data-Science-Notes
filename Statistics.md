@@ -1,6 +1,6 @@
 ## 1. Statistical Feature
 * Helps in exploring a dataset to gain valuabe insights such as bias, variance, mean, median and many other.
-* Boxplot
+* **Boxplot**
 	* ![Boxplot](Images/boxplot.gif)
 	* Short - Data points are similar
 	* Tall - There is much variety in data/spread over wide range
@@ -14,19 +14,19 @@
 
 ## 2. Probability Distribution
 * It defines the percent change that some event will occur, and we can use them to understand the spread of data.
-* Uniform Distribution
+* **Uniform Distribution**
 	* ![Uniform](Images/uniform_distribution.png)
-* Normal Distribution
+* **Normal Distribution**
 	* a.k.a. Gaussian Distribution
 	* Mean shifts distribution spatially
 	* Standard Deviation controls the spread
 	* ![Normal](Images/Normal_Distribution.png)
 
-	* Poisson Distribution
-		* Similar to Normal, with added factor of skewness
-		* Low value, uniform spread, why?
-		* high spread with different in different direction.
-		* ![Poisson](Images/Poisson_Distribution.png)
+* **Poisson Distribution**
+	* Similar to Normal, with added factor of skewness
+	* Low value, uniform spread, why?
+	* high spread with different in different direction.
+	* ![Poisson](Images/Poisson_Distribution.png)
 
 ## 3. Bayesian Statistics
 * Bayesian Statistics expresses probability as a degree of belief in an event which can change as new information is gathered rather than a fixed value based on frequency.
@@ -38,10 +38,10 @@
 
 
 ## 5. Over and Under Sampling
-* Undersampling
+* **Undersampling**
 	* Selecting less data of the majority class to maintain probability distribution
 	* ![undersampling](Images/undersampling.png)
 
-* Oversampling
+* **Oversampling**
 	* Creating copies of minority class to maintain the distribution.
 	* ![oversampling](Images/oversampling.png)
