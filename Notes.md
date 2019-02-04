@@ -17,16 +17,16 @@
 * Uniform Distribution
 	* ![Uniform](Images/uniform_distribution.png)
 * Normal Distribution
-	* ![Normal](Images/Normal_Distribution.png)
 	* a.k.a. Gaussian Distribution
 	* Mean shifts distribution spatially
 	* Standard Deviation controls the spread
+	* ![Normal](Images/Normal_Distribution.png)
 
 	* Poisson Distribution
-		* ![Poisson](Images/Poisson_Distribution.png)
 		* Similar to Normal, with added factor of skewness
 		* Low value, uniform spread, why?
 		* high spread with different in different direction.
+		* ![Poisson](Images/Poisson_Distribution.png)
 
 ## 3. Bayesian Statistics
 * Bayesian Statistics expresses probability as a degree of belief in an event which can change as new information is gathered rather than a fixed value based on frequency.
@@ -39,9 +39,9 @@
 
 ## 5. Over and Under Sampling
 * Undersampling
-	* ![undersampling](Images/undersampling.png)
 	* Selecting less data of the majority class to maintain probability distribution
+	* ![undersampling](Images/undersampling.png)
 
 * Oversampling
-	* ![oversampling](Images/oversampling.png)
 	* Creating copies of minority class to maintain the distribution.
+	* ![oversampling](Images/oversampling.png)
