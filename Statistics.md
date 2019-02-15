@@ -30,6 +30,9 @@
 
 ## 3. Bayesian Statistics
 * Bayesian Statistics expresses probability as a degree of belief in an event which can change as new information is gathered rather than a fixed value based on frequency.
+* It is useful since Frequency Statistics only works with prior data
+* Use it whenever you feel that your prior data will not be a good representation of your future data and results.
+* ![Bayes Theorem] (Images/bayes.png)
 
 ## 4. Dimensionality Reduction
 * Projecting 3D data onto a 2D plane
